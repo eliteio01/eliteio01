@@ -18,7 +18,7 @@ I'm a passionate software engineer with over **5 years of experience** building 
 ## 🏗️ **Work Experience**
 
 ### 💼 **Abia State Government House — Mobile App Developer & Backend Engineer**
-📍 *Umuahia, Nigeria | 2025*
+📍 *Umuahia, Nigeria | 2022 — Present*
 
 - Led the development of mobile and web systems supporting state operations and public-facing apps
 - Architected and deployed **secure REST APIs**, **user management systems**, and **payment integrations**
@@ -43,33 +43,60 @@ I'm a passionate software engineer with over **5 years of experience** building 
 
 ---
 
-## 📊 **Skill Proficiency**
+## 📊 **Technical Proficiency**
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0366d6','primaryTextColor':'#fff','primaryBorderColor':'#0366d6','lineColor':'#6a737d','secondaryColor':'#f6f8fa','tertiaryColor':'#fff'}}}%%
-graph LR
-    A[Backend Development] --> B[Laravel/PHP - 95%]
-    A --> C[Node.js/Express - 80%]
-    
-    D[Mobile Development] --> E[Flutter/Dart - 85%]
-    
-    F[Database & Caching] --> G[MySQL/PostgreSQL - 80%]
-    F --> H[Redis - 70%]
-    
-    I[DevOps & Infrastructure] --> J[Docker/CI-CD - 65%]
-    I --> K[Kubernetes/Cloud - 55%]
-    
-    style B fill:#28a745
-    style E fill:#28a745
-    style C fill:#28a745
-    style G fill:#28a745
-    style H fill:#ffc107
-    style J fill:#ffc107
-    style K fill:#17a2b8
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#10b981','primaryTextColor':'#fff','primaryBorderColor':'#059669','fontSize':'16px'}}}%%
+mindmap
+  root((Tech Skills))
+    Backend
+      Laravel/PHP
+        ::icon(fas fa-server)
+        95% Expert
+      Node.js
+        ::icon(fas fa-node)
+        80% Advanced
+      REST APIs
+        ::icon(fas fa-code)
+        90% Expert
+    Mobile
+      Flutter/Dart
+        ::icon(fas fa-mobile)
+        85% Expert
+      Cross Platform
+        ::icon(fas fa-sync)
+        85% Advanced
+    Database
+      MySQL/PostgreSQL
+        ::icon(fas fa-database)
+        80% Advanced
+      Redis Caching
+        ::icon(fas fa-bolt)
+        70% Intermediate
+    DevOps
+      Docker
+        ::icon(fab fa-docker)
+        65% Advanced
+      Kubernetes
+        ::icon(fas fa-dharmachakra)
+        55% Intermediate
+      CI/CD Pipeline
+        ::icon(fas fa-rocket)
+        70% Advanced
 ```
 
-**Proficiency Legend:**  
-🟩 `85%+` Expert • 🟨 `65-84%` Advanced • 🟦 `50-64%` Intermediate
+---
+
+## 📈 **Skill Distribution**
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+pie title Skill Focus Areas
+    "Backend Development" : 35
+    "Mobile Development" : 30
+    "DevOps & Infrastructure" : 20
+    "Database & Caching" : 15
+```
 
 ---
 
