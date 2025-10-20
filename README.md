@@ -46,16 +46,23 @@ I love transforming complex challenges into clean, maintainable architectures th
 ## 📊 **Skill Graph**
 
 ```mermaid
-%%{init: {"theme": "neutral"}}%%
-graph TD
-A[Laravel / PHP] -->|95%| Z1
-B[Flutter (Dart)] -->|85%| Z2
-C[Node.js / Express] -->|80%| Z3
-D[MySQL / PostgreSQL] -->|80%| Z4
-E[Redis / Caching] -->|70%| Z5
-F[Docker / CI-CD] -->|65%| Z6
-G[Kubernetes / Cloud] -->|55%| Z7
-```
+%%{init: {"theme": "default"}}%%
+graph LR
+A["Laravel / PHP"]:::bar95 --> Z1["95% (Expert)"]
+B["Flutter (Dart)"]:::bar85 --> Z2["85% (Advanced)"]
+C["Node.js / Express"]:::bar80 --> Z3["80% (Advanced)"]
+D["MySQL / PostgreSQL"]:::bar80 --> Z4["80% (Advanced)"]
+E["Redis / Caching"]:::bar70 --> Z5["70% (Intermediate)"]
+F["Docker / CI/CD"]:::bar65 --> Z6["65% (Intermediate)"]
+G["Kubernetes / Cloud"]:::bar55 --> Z7["55% (Beginner–Intermediate)"]
+
+classDef bar95 fill:#4caf50,stroke:#333,stroke-width:1px,color:#fff;
+classDef bar85 fill:#8bc34a,stroke:#333,stroke-width:1px,color:#fff;
+classDef bar80 fill:#cddc39,stroke:#333,stroke-width:1px,color:#000;
+classDef bar70 fill:#ffeb3b,stroke:#333,stroke-width:1px,color:#000;
+classDef bar65 fill:#ffc107,stroke:#333,stroke-width:1px,color:#000;
+classDef bar55 fill:#ff9800,stroke:#333,stroke-width:1px,color:#000;
+
 
 🟩 **Proficiency Scale**  
 `100%` — Expert • `85%` — Advanced • `70%` — Intermediate • `50%` — Foundational  
