@@ -2,7 +2,7 @@
 
 🎯 **Backend Engineer | Mobile Developer | API & FinTech Specialist**
 
-I'm a passionate software engineer with over **5 years of experience** building secure, scalable, and high-performance solutions across backend systems and mobile platforms. I love transforming complex challenges into clean, maintainable architectures that power **real-world products**.
+I'm a passionate software engineer with over **6+ years of experience** building secure, scalable, and high-performance solutions across backend systems and mobile platforms. I love transforming complex challenges into clean, maintainable architectures that power **real-world products**.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a passionate software engineer with over **5 years of experience** building 
 ## 🏗️ **Work Experience**
 
 ### 💼 **Abia State Government House — Mobile App Developer & Backend Engineer**
-📍 *Umuahia, Nigeria | 2022 — Present*
+📍 *Umuahia, Nigeria | 2025*
 
 - Led the development of mobile and web systems supporting state operations and public-facing apps
 - Architected and deployed **secure REST APIs**, **user management systems**, and **payment integrations**
@@ -46,42 +46,41 @@ I'm a passionate software engineer with over **5 years of experience** building 
 ## 📊 **Technical Proficiency**
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#10b981','primaryTextColor':'#fff','primaryBorderColor':'#059669','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#3b82f6',
+  'primaryTextColor':'#ffffff',
+  'primaryBorderColor':'#2563eb',
+  'secondaryColor':'#8b5cf6',
+  'tertiaryColor':'#ec4899',
+  'lineColor':'#6366f1',
+  'fontSize':'16px',
+  'fontFamily':'system-ui'
+}}}%%
 mindmap
-  root((Tech Skills))
-    Backend
+  root((💻 Tech Skills))
+    🔧 Backend
       Laravel/PHP
-        ::icon(fas fa-server)
         95% Expert
       Node.js
-        ::icon(fas fa-node)
         80% Advanced
       REST APIs
-        ::icon(fas fa-code)
         90% Expert
-    Mobile
+    📱 Mobile
       Flutter/Dart
-        ::icon(fas fa-mobile)
         85% Expert
       Cross Platform
-        ::icon(fas fa-sync)
         85% Advanced
-    Database
+    🗄️ Database
       MySQL/PostgreSQL
-        ::icon(fas fa-database)
         80% Advanced
       Redis Caching
-        ::icon(fas fa-bolt)
         70% Intermediate
-    DevOps
+    ⚙️ DevOps
       Docker
-        ::icon(fab fa-docker)
         65% Advanced
       Kubernetes
-        ::icon(fas fa-dharmachakra)
         55% Intermediate
       CI/CD Pipeline
-        ::icon(fas fa-rocket)
         70% Advanced
 ```
 
@@ -90,7 +89,27 @@ mindmap
 ## 📈 **Skill Distribution**
 
 ```mermaid
-%%{init: {'theme':'base'}}%%
+%%{init: {'theme':'base', 'themeVariables': {
+  'pie1':'#3b82f6',
+  'pie2':'#8b5cf6',
+  'pie3':'#ec4899',
+  'pie4':'#f59e0b',
+  'pie5':'#10b981',
+  'pie6':'#06b6d4',
+  'pie7':'#ef4444',
+  'pie8':'#6366f1',
+  'pie9':'#14b8a6',
+  'pie10':'#f97316',
+  'pie11':'#84cc16',
+  'pie12':'#a855f7',
+  'pieTitleTextSize':'18px',
+  'pieTitleTextColor':'#1f2937',
+  'pieStrokeColor':'#ffffff',
+  'pieStrokeWidth':'2px',
+  'pieLegendTextSize':'14px',
+  'pieLegendTextColor':'#374151',
+  'pieOpacity':'0.9'
+}}}%%
 pie title Skill Focus Areas
     "Backend Development" : 35
     "Mobile Development" : 30
