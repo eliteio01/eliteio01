@@ -18,7 +18,7 @@ I'm a passionate software engineer with over **5 years of experience** building 
 ## 🏗️ **Work Experience**
 
 ### 💼 **Abia State Government House — Mobile App Developer & Backend Engineer**
-📍 *Umuahia, Nigeria | 2022 — Present*
+📍 *Umuahia, Nigeria | 2025*
 
 - Led the development of mobile and web systems supporting state operations and public-facing apps
 - Architected and deployed **secure REST APIs**, **user management systems**, and **payment integrations**
